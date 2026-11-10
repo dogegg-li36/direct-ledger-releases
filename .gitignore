@@ -1,0 +1,7 @@
+*.apk
+*.jks
+*.keystore
+*.db
+*.json
+*.zip
+.env*
